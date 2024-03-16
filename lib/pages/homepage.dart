@@ -63,6 +63,7 @@ class _homepageState extends State<homepage> {
   void resetApp() {
     setState(() {
       db.clearValues();
+      db.initialValues();
       db.updateValues();
     });
   }
