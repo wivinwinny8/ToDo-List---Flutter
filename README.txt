@@ -15,23 +15,6 @@ This is a ToDo list app built using Flutter and a local database for data storag
 - Hive
 - Dart
 
-## # ToDo List App
-
-This is a ToDo list app built using Flutter and a local database for data storage called Hive.
-
-## Features
-
-- Add, edit, and delete tasks
-- Mark tasks as complete
-- Persist tasks locally using Hive database
-- Simple and intuitive user interface
-
-## Technologies Used
-
-- Flutter
-- Hive
-- Dart
-
 ## Getting Started
 
 To build apk run the following commands
